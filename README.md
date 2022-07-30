@@ -4,9 +4,7 @@
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
-![Java](https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png)
-![php](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=giangnamG&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
