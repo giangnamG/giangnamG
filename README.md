@@ -33,7 +33,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giangnamG">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giangnamG&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -42,7 +42,7 @@
     <tr>
       <td>
         <a href="https://activity-graph.herokuapp.com/graph?username=giangnamG">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=dracula">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=giangnamG&theme=dracula">
         </a>
       </td>
     </tr>
@@ -54,12 +54,12 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giangnamG">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giangnamG&theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giangnamG&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giangnamG&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -68,12 +68,12 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giangnamG">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giangnamG&theme=dracula"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=giangnamG">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=giangnamG&theme=dracula"/>
         </a>
       </td>
     </tr>
